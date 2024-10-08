@@ -15,7 +15,8 @@ let random_number = Math.random() * 100
 random_number = Math.round(random_number)
 
 // Output the result usijng a new way to insert a variable into a string (called a template)
-console.log(`I generated the number ${random_number}`)
+F=(9/5)+32
+C=(9*5)-32
 
 // ***  Your code goes below  ***
 
